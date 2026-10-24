@@ -1,7 +1,7 @@
 # Client site content
 
 This repo holds one website's content: text, images and settings. The design
-and code come from [site-engine](https://github.com/jessed8000/site-engine),
+and code come from [lemon-real-estate-engine](https://github.com/allthingslemon/lemon-real-estate-engine),
 which is combined with this repo when the site builds.
 
 **Editing the site?** Go to `https://<your-site>/admin/` and sign in with
@@ -29,7 +29,7 @@ public/                     anything else served as-is (robots.txt, favicon.ico)
    (the shared GitHub sign-in Worker).
 3. Replace the demo content and images, or let the client do it in the CMS.
 4. Create a Cloudflare Pages project connected to this repo:
-   - Build command: `git clone --depth 1 https://github.com/jessed8000/site-engine.git engine && cd engine && pnpm install --frozen-lockfile && CLIENT_DIR=.. pnpm build`
+   - Build command: `git clone --depth 1 https://github.com/allthingslemon/lemon-real-estate-engine.git engine && cd engine && pnpm install --frozen-lockfile && CLIENT_DIR=.. pnpm build`
    - Build output directory: `engine/dist`
    - Environment variable: `NODE_VERSION=22`
 5. Add the live hostname to the sign-in Worker's allowed domains.
