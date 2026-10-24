@@ -1,0 +1,27 @@
+{
+  "siteName": "Northwind Marketplace",
+  "description": "Discover and support real-world projects across every industry.",
+  "logo": "/uploads/brand/logo.svg",
+  "logoHeight": 40,
+  "favicon": "/uploads/brand/favicon.svg",
+  "theme": {
+    "accent": "#facc15",
+    "text": "#111827",
+    "background": "#f9fafb",
+    "surface": "#ffffff",
+    "footer": "#111827",
+    "font": "Poppins"
+  },
+  "nav": [
+    { "label": "About", "url": "/about" }
+  ],
+  "footer": {
+    "noticeTitle": "Important disclaimer",
+    "noticeText": "This website is an informational showcase only. Nothing on this site is an offer to sell or a solicitation to buy anything. Do your own research before taking part in any project listed here.",
+    "links": [
+      { "label": "Privacy Policy", "url": "/privacy-policy" },
+      { "label": "Terms and Conditions", "url": "/terms-and-conditions" }
+    ],
+    "copyright": "© {year} Northwind Marketplace. All rights reserved."
+  }
+}

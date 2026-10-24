@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "title": "Launch & Support Real World Projects",
+    "text": "Explore the projects in our ecosystem, each backed by real-world economic drivers.",
+    "image": "/uploads/brand/hero.svg",
+    "imageAlt": "Abstract illustration",
+    "categoriesLabel": "Launch projects of any category"
+  },
+  "listings": {
+    "heading": "All Projects",
+    "emptyText": "New projects are coming soon."
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "items": [
+      { "question": "Who can take part in projects?", "answer": "Each project sets its own requirements. Open a project to see who it's for and how to get involved." },
+      { "question": "How do I get involved?", "answer": "Choose a project and follow its link. You'll be taken to the project's own site to complete the next steps." },
+      { "question": "How are projects selected?", "answer": "Every project is reviewed before it's listed. Look for the verified badge next to a project's name." }
+    ]
+  }
+}

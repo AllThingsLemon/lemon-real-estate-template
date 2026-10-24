@@ -1,0 +1,7 @@
+{
+  "repo": "OWNER/REPO",
+  "branch": "main",
+  "siteUrl": "https://www.example.com",
+  "authUrl": "",
+  "listingsPath": "projects"
+}
