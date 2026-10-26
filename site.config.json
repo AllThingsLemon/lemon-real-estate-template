@@ -2,6 +2,6 @@
   "repo": "OWNER/REPO",
   "branch": "main",
   "siteUrl": "https://www.example.com",
-  "authUrl": "",
+  "authUrl": "https://lemon-cms-auth.clients-lemon.workers.dev",
   "listingsPath": "properties"
 }
