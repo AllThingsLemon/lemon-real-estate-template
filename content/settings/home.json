@@ -1,21 +1,22 @@
 {
   "hero": {
-    "title": "Launch & Support Real World Projects",
-    "text": "Explore the projects in our ecosystem, each backed by real-world economic drivers.",
+    "title": "Own a Share of Real-World Property",
+    "text": "Explore vetted, income-producing properties and choose the ones you want to own a piece of, starting from $10.",
     "image": "/uploads/brand/hero.svg",
-    "imageAlt": "Abstract illustration",
-    "categoriesLabel": "Launch projects of any category"
+    "imageAlt": "Illustration of city apartment towers at sunset",
+    "categoriesLabel": "Browse properties by type"
   },
   "listings": {
-    "heading": "All Projects",
-    "emptyText": "New projects are coming soon."
+    "heading": "All Properties",
+    "emptyText": "New properties are coming soon."
   },
   "faq": {
     "heading": "Frequently Asked Questions",
     "items": [
-      { "question": "Who can take part in projects?", "answer": "Each project sets its own requirements. Open a project to see who it's for and how to get involved." },
-      { "question": "How do I get involved?", "answer": "Choose a project and follow its link. You'll be taken to the project's own site to complete the next steps." },
-      { "question": "How are projects selected?", "answer": "Every project is reviewed before it's listed. Look for the verified badge next to a project's name." }
+      { "question": "What do I actually own?", "answer": "Each property is held by its own company. Buying tokens gives you a share of that company and of the rent it collects." },
+      { "question": "How are rental payments made?", "answer": "Rent is collected by the property manager. After costs and reserves, the remainder is paid out to holders, usually every month." },
+      { "question": "How are properties selected?", "answer": "Every property is inspected and its finances are reviewed before it's listed. Look for the verified badge next to a property's name." },
+      { "question": "Can I sell my share later?", "answer": "Yes. Each property's page explains how and when its tokens can be transferred or sold." }
     ]
   }
 }

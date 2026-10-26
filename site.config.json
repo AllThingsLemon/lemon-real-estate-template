@@ -3,5 +3,5 @@
   "branch": "main",
   "siteUrl": "https://www.example.com",
   "authUrl": "",
-  "listingsPath": "projects"
+  "listingsPath": "properties"
 }

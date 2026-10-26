@@ -1,15 +1,15 @@
 {
-  "siteName": "Northwind Marketplace",
-  "description": "Discover and support real-world projects across every industry.",
+  "siteName": "Keystone Estates",
+  "description": "Browse income-producing properties, from city apartments to beach rentals, and own a share of each one.",
   "logo": "/uploads/brand/logo.svg",
   "logoHeight": 40,
   "favicon": "/uploads/brand/favicon.svg",
   "theme": {
     "accent": "#facc15",
-    "text": "#111827",
+    "text": "#0f172a",
     "background": "#f9fafb",
     "surface": "#ffffff",
-    "footer": "#111827",
+    "footer": "#0f172a",
     "font": "Poppins"
   },
   "nav": [
@@ -17,11 +17,11 @@
   ],
   "footer": {
     "noticeTitle": "Important disclaimer",
-    "noticeText": "This website is an informational showcase only. Nothing on this site is an offer to sell or a solicitation to buy anything. Do your own research before taking part in any project listed here.",
+    "noticeText": "This is a demo site with made-up properties and figures. Nothing on this site is an offer to sell or a solicitation to buy any security or property. Projected yields are estimates and are not guaranteed.",
     "links": [
       { "label": "Privacy Policy", "url": "/privacy-policy" },
       { "label": "Terms and Conditions", "url": "/terms-and-conditions" }
     ],
-    "copyright": "© {year} Northwind Marketplace. All rights reserved."
+    "copyright": "© {year} Keystone Estates. All rights reserved."
   }
 }

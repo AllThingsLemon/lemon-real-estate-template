@@ -1,16 +1,18 @@
 ---
-title: About Northwind
-description: Who we are and what we do.
+title: About Keystone Estates
+description: Who we are and how property ownership works on Keystone.
 ---
 
-Welcome to Northwind Marketplace, a showcase of real-world projects you can explore and support.
+Keystone Estates makes it simple to own a share of real, income-producing property without buying a whole building.
 
 ## Our mission
 
-We believe everyone should be able to discover tangible, revenue-generating projects, and understand them clearly.
+Property has always been one of the most reliable ways to build wealth, but buying a building takes more money and time than most people have. We split properties into small shares so anyone can take part.
 
-## What we do
+## How it works
 
-- **Showcase projects** across energy, technology, real estate, agriculture and more.
-- **Share the details** that matter: key figures, the team, and where to learn more.
-- **Point you onward** to each project's own site to get involved.
+- **We find the property.** Apartments, homes, shops, warehouses and vacation rentals, each inspected before it's listed.
+- **You choose your share.** Every property shows its value, token price and projected yield.
+- **Rent is shared out.** After costs, income is paid to holders, usually monthly.
+
+*This is a demo site. The properties and figures are made up.*
