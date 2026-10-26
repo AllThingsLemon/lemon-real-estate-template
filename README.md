@@ -31,6 +31,6 @@ public/                     anything else served as-is (robots.txt, favicon.ico)
 4. Create a Cloudflare Pages project connected to this repo:
    - Build command: `git clone --depth 1 https://github.com/allthingslemon/lemon-real-estate-engine.git engine && cd engine && pnpm install --frozen-lockfile && CLIENT_DIR=.. pnpm build`
    - Build output directory: `engine/dist`
-   - Environment variable: `NODE_VERSION=22`
+   - Environment variable: `NODE_VERSION=24`
 5. Add the live hostname to the sign-in Worker's allowed domains.
 6. Invite editors to the GitHub org with Write access to this repo.
