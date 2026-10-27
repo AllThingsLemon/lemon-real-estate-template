@@ -1,27 +1,36 @@
 {
-  "siteName": "Keystone Estates",
-  "description": "Browse income-producing properties, from city apartments to beach rentals, and own a share of each one.",
+  "siteName": "Your Site Name",
+  "description": "A one-sentence description of your site, used by search engines.",
   "logo": "/uploads/brand/logo.svg",
   "logoHeight": 40,
   "favicon": "/uploads/brand/favicon.svg",
   "theme": {
     "accent": "#facc15",
-    "text": "#0f172a",
+    "text": "#111827",
     "background": "#f9fafb",
     "surface": "#ffffff",
-    "footer": "#0f172a",
+    "footer": "#111827",
     "font": "Poppins"
   },
   "nav": [
-    { "label": "About", "url": "/about" }
+    {
+      "label": "About",
+      "url": "/about"
+    }
   ],
   "footer": {
-    "noticeTitle": "Important disclaimer",
-    "noticeText": "This is a demo site with made-up properties and figures. Nothing on this site is an offer to sell or a solicitation to buy any security or property. Projected yields are estimates and are not guaranteed.",
+    "noticeTitle": "Disclaimer heading",
+    "noticeText": "Replace this with your disclaimer or notice text, or clear the heading to hide this box.",
     "links": [
-      { "label": "Privacy Policy", "url": "/privacy-policy" },
-      { "label": "Terms and Conditions", "url": "/terms-and-conditions" }
+      {
+        "label": "Privacy Policy",
+        "url": "/privacy-policy"
+      },
+      {
+        "label": "Terms and Conditions",
+        "url": "/terms-and-conditions"
+      }
     ],
-    "copyright": "© {year} Keystone Estates. All rights reserved."
+    "copyright": "© {year} Your Company. All rights reserved."
   }
 }

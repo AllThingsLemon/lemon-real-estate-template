@@ -1,22 +1,30 @@
 {
   "hero": {
-    "title": "Own a Share of Real-World Property",
-    "text": "Explore vetted, income-producing properties and choose the ones you want to own a piece of, starting from $10.",
+    "title": "Your headline goes here",
+    "text": "A short introduction to your site. Say what visitors will find and why it matters to them.",
     "image": "/uploads/brand/hero.svg",
-    "imageAlt": "Illustration of city apartment towers at sunset",
-    "categoriesLabel": "Browse properties by type"
+    "imageAlt": "Describe the image for screen readers",
+    "categoriesLabel": "Browse by category"
   },
   "listings": {
-    "heading": "All Properties",
-    "emptyText": "New properties are coming soon."
+    "heading": "All Listings",
+    "emptyText": "New listings are coming soon."
   },
   "faq": {
     "heading": "Frequently Asked Questions",
     "items": [
-      { "question": "What do I actually own?", "answer": "Each property is held by its own company. Buying tokens gives you a share of that company and of the rent it collects." },
-      { "question": "How are rental payments made?", "answer": "Rent is collected by the property manager. After costs and reserves, the remainder is paid out to holders, usually every month." },
-      { "question": "How are properties selected?", "answer": "Every property is inspected and its finances are reviewed before it's listed. Look for the verified badge next to a property's name." },
-      { "question": "Can I sell my share later?", "answer": "Yes. Each property's page explains how and when its tokens can be transferred or sold." }
+      {
+        "question": "First question visitors often ask?",
+        "answer": "Replace this with the answer."
+      },
+      {
+        "question": "Second question visitors often ask?",
+        "answer": "Replace this with the answer."
+      },
+      {
+        "question": "Third question visitors often ask?",
+        "answer": "Replace this with the answer."
+      }
     ]
   }
 }
