@@ -1,6 +1,8 @@
 # Editing your website
 
 1. Go to **https://your-site.com/admin/** and click **Sign in with GitHub**.
+   The first time, GitHub asks you to approve **Lemon Real Estate Site Editor**.
+   You'll be asked to sign in again about once a day.
 2. Pick what to edit from the left-hand menu:
    - **Listings**: the cards on the home page and their detail pages. Drag to reorder.
    - **Categories**: the filter buttons on the home page.
